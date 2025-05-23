@@ -1,7 +1,7 @@
 [
-  { "title":"山之涯.mp3","url": "/mySongs/mp3/山之涯.mp3" },
-  { "title":"你回眸时我静静守望.mp3","url": "/mySongs/mp3/你回眸时我静静守望.mp3" },
-  { "title":"有你如诗.mp3","url": "/mySongs/mp3/有你如诗.mp3" },
-  { "title":"好好待你.mp3","url": "/mySongs/mp3/好好待你.mp3" },
-  { "title":"最后一杯.mp3","url": "/mySongs/mp3/最后一杯.mp3" }
+  { "title":"山之涯.mp3","url": "/popularSongs/mp3/山之涯.mp3" },
+  { "title":"你回眸时我静静守望.mp3","url": "/popularSongs/mp3/你回眸时我静静守望.mp3" },
+  { "title":"有你如诗.mp3","url": "/popularSongs/mp3/有你如诗.mp3" },
+  { "title":"好好待你.mp3","url": "/popularSongs/mp3/好好待你.mp3" },
+  { "title":"最后一杯.mp3","url": "/popularSongs/mp3/最后一杯.mp3" }
 ]
