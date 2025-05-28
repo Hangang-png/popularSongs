@@ -43,5 +43,15 @@
     });
   </script>
 
+<script>
+  window.goatcounter = {
+    // 完整路径建议加入 protocol，避免某些 GoatCounter 配置解析失败
+    path: location.href.replace(location.origin, '')
+  };
+</script>
+
+<script data-goatcounter="https://songs-goat.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+        
 </body>
 </html>
